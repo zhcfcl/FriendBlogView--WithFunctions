@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="orange">#F29300</color>
+    <color name="gray">#4C4C4C</color>
+
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="red">#FF0000</color>
+    <color name="gold">#FFD700</color>
+    <color name="yellow">#FFFF00</color>
+    <color name="green">#008000</color>
+    <color name="blue">#0000FF</color>
+    <color name="purple">#800080</color>
+    <color name="pink">#FFC0CB</color>
+
+    <color name="lemonyellow">#FFFACD</color>
+    <color name="graywhite">#F5F5F5</color>
+    <color name="grayslate">#708090</color>
+    <color name="lightblue">#0083FF</color>
+    <color name="gray_light">#A0A0A0</color>
+    <color name="graylighter">#D0D0D0</color>
+    <!-- Footer -->
+    <color name="tab_text_normal">#4C4C4C</color>
+    <color name="tab_text_selected">#F29300</color>
+    <color name="tab_bg">#F0F0F0</color>
+    <color name="tab_solid">#A0A0A0</color>
+
+    <!-- Header -->
+    <color name="header_text">#FFFFFF</color>
+    <color name="header_bg">#F5F5F5</color>
+    <color name="forum_title">#4C4C4C</color>
+    <color name="forum_content">#8f8f8f</color>
+
+    <color name="ListItem_highlight_title">#5bb430</color>
+    <color name="listItem_title">#383838</color>
+    <color name="listItem_detail">#8f8f8f</color>
+
+    <color name="full_transparent">#00000000</color>
+    <color name="half_transparent">#aa000000</color>
+
+    <color name="bright_foreground_light">#ff000000</color>
+    <color name="bright_foreground_light_inverse">#ffffffff</color>
+    <color name="bright_foreground_light_disabled">#80000000</color>
+
+    <color name="dim_foreground_light">#808080</color>
+    <color name="dim_foreground_light_disabled">#80323232</color>
+    <color name="dim_foreground_light_inverse">#ff006eaa</color>
+    <color name="dim_foreground_light_inverse_disabled">#80bebebe</color>
+    <color name="selector_division_color">#98ffffff</color>
+    <!-- 字体黑 -->
+    <color name="textGrey">#9b9b9b</color>
+    <color name="textGreen">#4a90e2</color>
+</resources>
